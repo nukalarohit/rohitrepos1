@@ -9,3 +9,4 @@ print( 'i am fine')
 
 print(f"value of a is {a} and value of b is {b}",end='\t')
 print(a,b,sep='---')
+print(333+555)
